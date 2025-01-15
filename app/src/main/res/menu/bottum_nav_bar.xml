@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Home"
+        android:icon="@drawable/baseline_home_24"
+        android:id="@+id/home"/>
+    <item android:title="Breathing"
+        android:icon="@drawable/baseline_emoji_emotions_24"
+        android:id="@+id/emotion"/>
+    <item android:title="Doctor"
+        android:icon="@drawable/baseline_co_present_24"
+        android:id="@+id/docter"/>
+    <item
+        android:icon="@drawable/baseline_task_24"
+        android:id="@+id/task"
+        android:title="Task" />
+    <item android:title="Profile"
+        android:icon="@drawable/baseline_assignment_ind_24"
+        android:id="@+id/profile"/>
+</menu>
